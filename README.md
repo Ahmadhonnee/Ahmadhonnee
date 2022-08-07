@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/cat-coding-gif-22257939)](https://github.com/Ahmadhonnee)
 <h1 align="center">Hi 👋, I'm Akhmadkhon</h1>
 <h3 align="center">I'm trying enthusiasticly broaden my experience</h3>
-<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif+dribble&tbm=isch&ved=2ahUKEwjsxrCg47T5AhVJxIsKHQCUBSUQ2-cCegQIABAA&oq=animated+coding+gif+dribble&gs_lcp=CgNpbWcQAzoECAAQEzoICAAQHhAIEBM6BggAEB4QE1DSFFiFO2CXPWgAcAB4AIAB1gKIAbYQkgEHMC4zLjUuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=FLbvYuzsBcmIrwSAqJaoAg&bih=589&biw=614#imgrc=fDh08IYsK3GklM">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhonnee&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhonnee" /> </p>
